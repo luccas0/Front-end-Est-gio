@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    position: relative;
+    bottom: 160px;
+    right: 20px;
+}
+
+p{
+    text-align: center;
+    position: relative;
+    left: 40px;
+    top: 40px;
+    border-style: solid;
+    width: 120px;
+    height:20px;
+    left: 690px;
+    border-radius: 5px;
+}
+
+.numbers{
+    display: column;
+}
+
+.operators{
+    position: relative;
+    bottom: 900px;
+    display: grid;
+    width: 20px;
+    left: 803px;
+    bottom: 110px;
+    right: 2.5px
+}
+
+.equal{
+    position: relative;
+    bottom: 110px;
+    left: 71px;
+}
+
+.clean{
+    position: relative;
+    bottom: 198px;
+    left: 12.5px;
+}
+
+.border{
+    align-items: center;
+    border-style: solid;
+    height: 230px;
+    width: 150px;
+    position: relative;
+    bottom: 40px;
+    left: 675px;
+}
+
+
+
+
+
